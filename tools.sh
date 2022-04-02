@@ -155,7 +155,7 @@ then
 clear
 toilet -f slant "MR-Xyaa";
 sleep 1
-echo "\033[33;1mWe Security"
+echo -e "\033[33;1mWe Security"
 sleep 1
 echo " We Not Friends"
 sleep 1
@@ -167,8 +167,9 @@ echo "Ketika Sebuah Hayalan Tidak tercapai"
 sleep 1
 echo "Maka Terus lah BerJuang Dan Berusaha"
 sleep 1
-echo "\033[32;1mKarna Suatu Hari Nanti Kamu akan Mendapatkannya"
+echo -e "\033[32;1mKarna Suatu Hari Nanti Kamu akan Mendapatkannya"
+sleep 1
+echo -e $green"MR-Xyaa"
 sleep 5
-echo "\033[32;1mMR-Xyaa"
 exit
 fi
