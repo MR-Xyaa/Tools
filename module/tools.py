@@ -9,10 +9,6 @@ O = '\x1b[1;96m' # BIRU MUDA
 N = '\x1b[0m'    # WARNA MATI
 ##################
 
-def nama():
-      os.system('clear')
-      user_reply = input("Siapa Namamu? \n")
-nama()
 import random
 import sys
 import time
@@ -24,7 +20,7 @@ def mengetik(s):
         time.sleep(random.random() * 0.1)
 
 
-
+user_reply = input("Namamu Bang? \n")
 mengetik('\x1b[1;92m===============[ MENU ]===============[+]')
 mengetik('\x1b[1;91m[1]___Install Bahan')
 mengetik('\x1b[1;93m[2]___Tampilan Termux Oh-My-Zsh')
@@ -36,7 +32,7 @@ mengetik('\x1b[1;98m[7]___Spamcall By MR-Xyaa')
 mengetik('\x1b[1;91m[8]___Spam By Bang Xenzi')
 mengetik('\x1b[1;93m[0]__EXIT MENU MR-Xyaa')
 mengetik('\x1b[1;92m[+]===============[ MENU ]===============[+]')
-print("Pengguna:", user_reply)
+print("Bang:", user_reply)
 mengetik('Silahkan Pilih Menunya')
 
 
