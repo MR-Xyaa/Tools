@@ -10,7 +10,7 @@
 cd module
 clear
 python loading.py
-
+python tool.py
 
 blue='\033[34;1m'
 green='\033[32;1m'  
