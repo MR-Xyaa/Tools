@@ -18,6 +18,7 @@ bash tools.sh
 </a>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MR-Xyaa&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="mazipan" /></p>
-###########
+# ^_^
 
 https://cdn.prinsh.com/data-1/images/NathanPrinsley-hacker-dark.jpg
+# https://github.com/MR-Xyaa
