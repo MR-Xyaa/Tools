@@ -26,6 +26,6 @@ import sys
 import os
 
 inu =print
-def kntl
+def kntl():
       os.system('clear')
 inu (logo)
