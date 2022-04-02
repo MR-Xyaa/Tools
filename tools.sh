@@ -14,13 +14,13 @@ sleep 5
 clear
 python tools.py
 
-blue='\033[34;1m'
-green='\033[32;1m'  
-purple='\033[35;1m'
-cyan='\033[36;1m'
-red='\033[31;1m'
-white='\033[37;1m'                                           
-yellow='\033[33;1m'
+biru='\033[34;1m'
+ijo='\033[32;1m'  
+ungu='\033[35;1m'
+bm='\033[36;1m'
+abang='\033[31;1m'
+putih='\033[37;1m'                                           
+kuning='\033[33;1m'
 sleep 1
 
 
@@ -155,21 +155,21 @@ then
 clear
 toilet -f slant "MR-Xyaa";
 sleep 1
-echo -e "\033[33;1mWe Security"
+echo -e $abang"We Security"
 sleep 1
-echo " We Not Friends"
+echo -e $biru"We Not Friends"
 sleep 1
-echo "We Are Family"
+echo -e $bm"We Are Family"
 sleep 1
-echo "Hacking Is Not Criminal"
+echo -e $kuning"Hacking Is Not Criminal"
 sleep 1
-echo "Ketika Sebuah Hayalan Tidak tercapai"
+echo -e $ungu"Ketika Sebuah Hayalan Tidak tercapai"
 sleep 1
-echo "Maka Terus lah BerJuang Dan Berusaha"
+echo -e $putih"Maka Terus lah BerJuang Dan Berusaha"
 sleep 1
-echo -e "\033[32;1mKarna Suatu Hari Nanti Kamu akan Mendapatkannya"
+echo -e $kuning"Karna Suatu Hari Nanti Kamu akan Mendapatkannya"
 sleep 1
-echo -e $green"MR-Xyaa"
+echo -e $ijo"MR-Xyaa"
 sleep 5
 exit
 fi
