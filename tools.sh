@@ -27,5 +27,5 @@ read -p "MR-Xyaa Pilih No:" bro
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
-figlet -f slant "MR-Xyaa
+figlet -f slant "MR-Xyaa"
 fi
