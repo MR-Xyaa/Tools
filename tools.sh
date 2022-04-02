@@ -200,7 +200,3 @@ sleep 5
 clear
 exit
 fi
-
-##
-else:
-    echo "PILIH YANG BENER KONTOL!"
