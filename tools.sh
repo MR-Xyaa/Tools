@@ -173,6 +173,7 @@ sleep 1
 echo -e $ijo"MR-Xyaa"
 sleep 5
 python tai.py
+sleep 5
 clear
 exit
 fi
