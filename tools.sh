@@ -10,6 +10,8 @@
 cd module
 clear
 python loading.py
+sleep 5
+clear
 python tools.py
 
 blue='\033[34;1m'
