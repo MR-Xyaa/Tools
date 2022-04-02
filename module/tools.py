@@ -21,7 +21,7 @@ def mengetik(s):
 
 
 user_reply = input("Namamu Bang? \n")
-mengetik('\x1b[1;92m===============[ MENU ]===============[+]')
+mengetik('\x1b[1;92m[+]===============[ MENU ]===============[+]')
 mengetik('\x1b[1;91m[1]___Install Bahan')
 mengetik('\x1b[1;93m[2]___Tampilan Termux Oh-My-Zsh')
 mengetik('\x1b[1;94m[3]___MTK')
