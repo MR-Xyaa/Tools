@@ -35,4 +35,3 @@ memek =("""
 def tolol():
        os.system('clear')
 print (memek)
-tolol()
