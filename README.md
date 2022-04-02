@@ -1,6 +1,7 @@
 # INSTALL
 ```python
 pkg update upgrade
+pkg install python
 pkg install bash
 pkg install git
 git clone https://MR-Xyaa/Tools
