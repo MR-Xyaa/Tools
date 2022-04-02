@@ -12,6 +12,7 @@ clear
 python loading.py
 sleep 5
 clear
+python logo.py
 python tools.py
 
 biru='\033[34;1m'
