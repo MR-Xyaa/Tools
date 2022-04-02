@@ -27,6 +27,6 @@ read -p "MR-Xyaa Pilih No:" bro
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
-figlet -f slant "MR-Xyaa"
+toilet -f slant "MR-Xyaa";
 pkg update
 fi
