@@ -1,11 +1,14 @@
 # INSTALL
 ```python
 pkg update upgrade
-pkg install python
+pkg install python python2 python3
+pkg install lolcat
+pkg install php
 pkg install bash
 pkg install git
 git clone https://MR-Xyaa/Tools
 cd Tools
+git pull
 bash tools.sh
 ```
 <img src="https://komarev.com/ghpvc/?username=Xenzi-XN1&label=Views&color=green&style=plastic" alt="views">
