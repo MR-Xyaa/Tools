@@ -24,7 +24,7 @@ kuning='\033[33;1m'
 sleep 1
 
 
-read -p "MR-Xyaa Pilih No:" bro
+read -p "Pilih No:" bro
 
 ## MENU1
 if [ $bro = 1 ] || [ $bro = 1 ]
