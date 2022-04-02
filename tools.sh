@@ -10,7 +10,7 @@
 cd module
 clear
 python loading.py
-sleep 5
+sleep 10
 clear
 python logo.py
 python tools.py
@@ -172,5 +172,7 @@ echo -e $kuning"Karna Suatu Hari Nanti Kamu akan Mendapatkannya"
 sleep 1
 echo -e $ijo"MR-Xyaa"
 sleep 5
+python tai.py
+clear
 exit
 fi
