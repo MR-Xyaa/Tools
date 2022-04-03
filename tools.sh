@@ -33,7 +33,7 @@ SOFTWARE.
 cd module
 clear
 python loading.py
-sleep 8
+sleep 3
 clear
 python logo.py
 python tools.py
