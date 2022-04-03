@@ -227,5 +227,5 @@ cd Spamer
 git pull
 bash spam.sh
 fi
-else
+else:
 echo "pilih yg bener setan"
