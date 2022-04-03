@@ -230,7 +230,6 @@ cd Spamer
 git pull
 bash mulai.sh
 fi
-else:
-then
-echo -e $\x1b[1;96"pilih yg bener setan"
+          else:
+    echo -e $\x1b[1;96"pilih yg bener setan"
 fi
