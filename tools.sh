@@ -228,4 +228,5 @@ git pull
 bash spam.sh
 fi
 else:
-echo "pilih yg bener setan"
+echo -e $\x1b[1;96"pilih yg bener setan"
+fi
