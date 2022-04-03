@@ -79,10 +79,10 @@ def aprillia():
 inu_sayang_april = threading.Thread(target=aprillia)
 inu_sayang_april.start()
 
-##################
+#########################
 ## LAMA DI SINI ANJING ##
-##################
-time.sleep(15)
+#########################
+time.sleep(5)
 done = True
 
 #############
