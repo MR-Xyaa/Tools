@@ -133,11 +133,14 @@ if [ $bro = 5 ] || [ $bro = 5 ]
 then
 clear
 toilet -f slant "MR-Xyaa";
-git clone https://github.com/MR-Xyaa/KangSpam
-cd KangSpam
+pkg update
+pkg upgrade
+pkg install git
+clear
+git clone https://github.com/MR-Xyaa/a
+cd a
 git pull
-make termux
-bash Main.sh
+sh a.sh
 fi
 
 ## MENU6
@@ -227,5 +230,7 @@ cd Spamer
 git pull
 bash mulai.sh
 fi
-      else:
+else:
+then
 echo -e $\x1b[1;96"pilih yg bener setan"
+fi
