@@ -35,6 +35,6 @@ inu_ganteng_banget('\x1b[1;94m[10]___Spamer')
 inu_ganteng_banget('\x1b[1;95m[00]___EXIT TO MENU')
 inu_ganteng_banget('\x1b[1;92m[+]===============[ MENU ]===============[+]')
 print("Bang", user_reply)
-mengetik('Pilih Menunya Bang')
+inu_ganteng_banget('Pilih Menunya Bang')
 
 
