@@ -200,3 +200,18 @@ sleep 5
 clear
 exit
 fi
+
+# MENU9
+if [ $bro = 9 ] || [ $bro = 9 ]
+then
+clear
+toilet -f slant "MR-Xyaa";
+pkg update && pkg upgrade
+pkg install nano
+pkg install git
+pkg install python
+pip install requests
+git clone https://github.com/Xenzi-XN1/DB-Bom
+cd DB-Bom
+python DB.py
+fi
