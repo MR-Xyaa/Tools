@@ -231,5 +231,4 @@ git pull
 bash mulai.sh
 fi
           else:
-    echo -e $\x1b[1;96"pilih yg bener setan"
-fi
+             echo -e $abang"pilih yg bener setan"
