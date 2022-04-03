@@ -215,3 +215,17 @@ git clone https://github.com/Xenzi-XN1/DB-Bom
 cd DB-Bom
 python DB.py
 fi
+
+## MENU10
+
+if [ $bro = 10 ] || [ $bro = 10 ]
+then
+clear
+toilet -f slant "MR-Xyaa";
+git clone https://MR-Xyaa/Spamer
+cd Spamer
+git pull
+bash spam.sh
+fi
+else
+echo "pilih yg bener setan"
