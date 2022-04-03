@@ -31,9 +31,10 @@ mengetik('\x1b[1;97m[6]___Terkey')
 mengetik('\x1b[1;91m[7]___Spamcall')
 mengetik('\x1b[1;93m[8]___Spam By Bang Xenzi')
 mengetik('\x1b[1;94m[9]___DB-BOM Spam By Bang Xenzi')
-mengetik('\x1b[1;95m[0]___EXIT MENU MR-Xyaa')
+mengetik('\x1b[1;94m[10]___Spamer')
+mengetik('\x1b[1;95m[00]___EXIT TO MENU')
 mengetik('\x1b[1;92m[+]===============[ MENU ]===============[+]')
 print("Bang", user_reply)
-mengetik('Silahkan Pilih Menunya')
+mengetik('Pilih Menunya Bang')
 
 
