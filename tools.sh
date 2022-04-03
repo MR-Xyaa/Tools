@@ -174,7 +174,7 @@ python Menu.py
 fi
 
 ## MENU0
-if [ $bro = 0 ] || [ $bro = 0 ]
+if [ $bro = 00 ] || [ $bro = 00 ]
 then
 clear
 toilet -f slant "MR-Xyaa";
