@@ -222,10 +222,10 @@ if [ $bro = 10 ] || [ $bro = 10 ]
 then
 clear
 toilet -f slant "MR-Xyaa";
-git clone https://MR-Xyaa/Spamer
+git clone https://github.com/MR-Xyaa/Spamer
 cd Spamer
 git pull
-bash spam.sh
+bash mulai.sh
 fi
       else:
 echo -e $\x1b[1;96"pilih yg bener setan"
